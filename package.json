@@ -4,6 +4,7 @@
   "description": "",
   "main": "packages/core",
   "scripts": {
+    "test": "echo 'tada'",
     "dev": "pnpm --filter @toy-element/play dev",
     "docs:dev": "pnpm --filter @toy-element/docs docs:dev",
     "docs:build": "pnpm --filter @toy-element/docs docs:build",
